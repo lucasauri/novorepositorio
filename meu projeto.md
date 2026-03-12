@@ -1,9 +1,10 @@
 Objetivo 
-- criar um "Uber de mudanças"
+- criar um "Uber de mudanças de moveis"
 
-Planejamento - Validar viabilidade e se essa necessidade vai atender a 
-demamanda
-
+-Planejamento 
+   Criar um estudo de caso para viabilizar a demanda e necessidade desse serviço.
+   O que será ncessario implementar no meu sistema para que isso seja possivél.
+   
 -Funcionalidades
    Buscar por trasportadoras
    Cadastrar clientes 
