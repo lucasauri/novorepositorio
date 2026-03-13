@@ -356,3 +356,4 @@ if (typeof module !== 'undefined' && module.exports) {
     };
 }
 //codigo nuvem
+//altarações
