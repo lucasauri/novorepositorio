@@ -356,5 +356,10 @@ if (typeof module !== 'undefined' && module.exports) {
     };
 }
 //codigo nuvem
+<<<<<<< HEAD
 //codigo máquina
 //alterações
+=======
+//altarações
+//alteraçõa 2
+>>>>>>> 543266081cb091fa9b7160e39fa7e37a10e7830f
