@@ -356,3 +356,5 @@ if (typeof module !== 'undefined' && module.exports) {
     };
 }
 //codigo nuvem
+//codigo máquina
+//alterações
