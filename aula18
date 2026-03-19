@@ -1,0 +1,19 @@
+iniciar
+nota1 
+nota2
+media = (nota1 + nota2)/2
+
+se media  >= 7 então
+   escreva = aprovado
+senao 
+escreva = repovado 
+final 
+
+iniciar
+x = 1
+então (x  <= 20) faça
+Y = x * 2 
+escreva Y
+senao 
+x = x + 1
+fim 
